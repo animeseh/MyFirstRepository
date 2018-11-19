@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.onlineshop.ProjectBackEnd.SupplierTestCase
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 5, Time elapsed: 1.102 s - in com.onlineshop.ProjectBackEnd.SupplierTestCase
