@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.project2.backendproject.BlogTest
+-------------------------------------------------------------------------------
+Tests run: 14, Failures: 0, Errors: 0, Skipped: 14, Time elapsed: 0 s - in com.project2.backendproject.BlogTest

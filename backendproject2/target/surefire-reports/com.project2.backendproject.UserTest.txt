@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.project2.backendproject.UserTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 7, Time elapsed: 0.003 s - in com.project2.backendproject.UserTest
